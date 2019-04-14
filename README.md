@@ -1,18 +1,15 @@
 # consoleGame
+
 random text based game
 
 this project is entirely just for fun
-
 im curious how far this can be taken
-
 feel free to submit pull requests
 
 compile:
-
-  javac *.java
+```javac *.java```
   
 run:
-
-  java Main
+```java Main```
   
 
