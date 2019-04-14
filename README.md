@@ -11,5 +11,14 @@ compile:
   
 run:  
 ```java Main```
+
+#### todo:  
+inventory system  
+better question/dialog interpretation  
+event system  
+make use of ingame locations  
+more activities for user interaction  
+add items/npcs/locations  
+
   
 
